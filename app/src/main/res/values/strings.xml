@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PictureCropCompressDemo</string>
+
+    <string-array name="picture_style">
+        <item>拍照</item>
+        <item>相册</item>
+    </string-array>
+
+    <string name="select_head">请选择头像</string>
+    <string name="processing">处理中</string>
+    <string name="processing_success">成功</string>
+    <string name="processing_failed">失败</string>
+
+</resources>
